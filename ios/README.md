@@ -2,7 +2,7 @@
 
 ## NappTestFlight Module for Appcelerator Titanium 
 
-This is a Test Flight module currently based on TestFlight SDK 2.0. 
+This is a Test Flight module currently based on TestFlight SDK 2.2. 
 
 
 ### Download
@@ -27,6 +27,11 @@ The provided API is simple:
 	
 
 ## Changelog
+
+* **v2.2.1**  
+  * TestFlight SDK v2.2.1  
+  * Adds support for ARM64
+  * Fixes issues with user identification and in app updates
 
 * **v2.0**  
   * TestFlight SDK v2.0  
